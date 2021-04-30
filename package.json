@@ -1,7 +1,7 @@
 {
   "name": "custom-commands",
   "description": "",
-  "license": "GPL-3.0",
+  "license": "MIT",
   "author": "Bernd Storath <bernd@kaaaxcreators>",
   "version": "1.0.0",
   "main": "./lib/src/index.js",
